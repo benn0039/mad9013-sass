@@ -1,0 +1,18 @@
+-----   TO DO LIST -------
+
+[X] You will need to add the doctype, html, and head tags as well as all the content in the head.
+[X] use local iconic file
+[X] Use of SASS - As the comments say in the CodePen there will be a minimum of five SCSS pages which will compile to a single CSS file. The SASS pages are 
+[X] Save your own copy of the svg images used in the sample CodePen to use on your page.
+[X] The layout for your page should be designed responsively as mobile first.
+[X] build border radius mixin
+[X] Create your own colour scheme. 
+[X] Choose your own fonts using Google fonts
+[X] Use one of the tools discussed in Canvas or in class to make sure that your fonts properly compliment each other.
+ 
+[X] build flex box mixins
+[X] Make sure Sass part are used
+[] Git setup
+[X] prefixes for flexbox...
+
+

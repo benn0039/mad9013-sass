@@ -1,0 +1,21 @@
+
+// works very well.. comment out the second row to test.  ".row"
+
+body{
+    @include display-flex;
+    min-height: 100vh;
+}
+
+.wrapper {
+     @include flex-full;
+}
+
+.foot {
+    @include display-flex;
+    @include justify-content-center;
+    @include align-item-center;
+    width: $full;
+    background-color: $header-bg;
+    height: 5vh;
+    min-height: 30px;
+}
